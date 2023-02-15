@@ -20,7 +20,7 @@ body{
     gap: 15px;
     
 }
-,logo__txt{
+.logo__txt{
     font-size: 32px;
     font-weight: 100;
 }
